@@ -1,0 +1,8 @@
+qiskit
+qiskit-optimization
+cvxpy
+mosek
+matplotlib
+tqdm
+pandas
+simanneal
